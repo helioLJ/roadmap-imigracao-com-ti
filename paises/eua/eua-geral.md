@@ -9,7 +9,7 @@ O visto EB-2 é uma categoria de visto de imigrante para profissionais com habil
 ### Subcategorias
 - **EB-2(A)**: Para profissionais com um grau avançado (mestrado ou superior) ou um diploma de bacharel mais cinco anos de experiência progressiva na área.
 - **EB-2(B)**: Para indivíduos com habilidades excepcionais nas ciências, artes ou negócios.
-- **EB-2 NIW**: Para profissionais que podem demonstrar que sua admissão é de interesse nacional para os Estados Unidos.
+- [**EB-2 NIW**](https://github.com/helioLJ/roadmap-imigracao-com-ti/blob/main/paises/eua/vistos/eb/eb-2-niw.md): Para profissionais que podem demonstrar que sua admissão é de interesse nacional para os Estados Unidos.
 
 ### Requisitos
 - **Grau avançado ou habilidades excepcionais**: O candidato deve possuir um grau avançado ou habilidades excepcionais em sua área de especialização.
