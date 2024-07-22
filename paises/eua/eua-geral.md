@@ -77,8 +77,6 @@ O visto O-1 é para indivíduos com habilidades extraordinárias nas ciências, 
 ### Duração
 O visto O-1 é concedido por até três anos, com extensões possíveis em incrementos de um ano.
 
-Claro! Aqui está a tabela atualizada com a coluna "Requer oferta de trabalho":
-
 # Comparação de Vistos:
 
 | **Tipo de Visto** | **Requisitos** | **Processo** | **Duração** | **Benefícios** | **Requer oferta de trabalho** |
