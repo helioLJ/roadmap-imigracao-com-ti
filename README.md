@@ -8,5 +8,6 @@ Este repositório fornece um roadmap e recursos para profissionais de TI que des
   - [EUA](https://github.com/helioLJ/roadmap-imigracao-com-ti/tree/main/paises/eua)
     - [Vistos](https://github.com/helioLJ/roadmap-imigracao-com-ti/tree/main/paises/eua/vistos/eb)
       - [EB-2 NIW](https://github.com/helioLJ/roadmap-imigracao-com-ti/blob/main/paises/eua/vistos/eb/eb-2-niw.md)
+  - [Irlanda](https://github.com/helioLJ/roadmap-imigracao-com-ti/tree/main/paises/irlanda)
 - [Recursos](https://github.com/helioLJ/roadmap-imigracao-com-ti/tree/main/recursos)
   - [Job Boards](https://github.com/helioLJ/roadmap-imigracao-com-ti/blob/main/recursos/job-boards.md)
